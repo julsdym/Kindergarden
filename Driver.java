@@ -4,9 +4,7 @@ import java.io.File;
 /**
  * This class is designed to test each method in the Transit file interactively
  * 
- * @author Ethan Chou 
- * @author Maksims Kurjanovics Kravcenko
- * @author Kal Pandit
+ * @author Julia Dymnicki
  */
 
 public class Driver {
