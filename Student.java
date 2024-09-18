@@ -4,7 +4,7 @@ package kindergarten;
  * This class represents a student, with a string variable for the 
  * student's name and an int variable for the student's height.
  * 
- * @author Ethan Chou
+ * @author Julia Dymnicki
  */
 public class Student {
     private String firstName;
